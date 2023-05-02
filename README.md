@@ -28,4 +28,4 @@ Created By Yahya Abo-Kmail
 ```python
 python manage.py createsuperuser
 Username : admin
-Password : 12345678
+Password : 1234
